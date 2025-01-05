@@ -2,9 +2,11 @@
 
 A AI-based intelligent writing grading system that scores and analyzes essays for relevance, grammar, structure, and depth using LangChain and LLM. Simply input your essay to receive a comprehensive evaluation and a final score.
 
-#### Project Demo
+#### AI Agents Flow Diagram
 
-Features
+![AI Writing Evaluator System Flow Diagram](AI_Writing_Evaluator_Flow_Diagram.png)
+
+#### Features
 📋 Relevance Scoring: Measures how well the essay aligns with the given topic.
 
 ✍️ Grammar Analysis: Evaluates the grammatical correctness and language quality.
@@ -15,9 +17,8 @@ Features
 
 ⚡ Final Score Calculation: Combines all scores with customizable weightings to provide an overall evaluation.
 
-![AI Writing Evaluator System Flow Diagram](AI_Writing_Evaluator_Flow_Diagram.png)
 
-### Use Cases
+#### Use Cases
 
 For grading various types of written content, such as:
 
