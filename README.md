@@ -19,18 +19,18 @@ Features
 
 For grading various types of written content, such as:
 
-  Academic Essays: Evaluate student submissions for relevance, grammar, and structure.
+    Academic Essays: Evaluate student submissions for relevance, grammar, and structure.
   
-  Professional Reports: Assess clarity and depth of analysis in business or technical documents.
+    Professional Reports: Assess clarity and depth of analysis in business or technical documents.
   
-  Creative Writing: Provide feedback on story structure and language use.
+    Creative Writing: Provide feedback on story structure and language use.
   
-  Self-Assessment: Help writers refine their skills with detailed AI-driven insights.
+    Self-Assessment: Help writers refine their skills with detailed AI-driven insights.
 
 This system can also be adapted to grade other types of works, such as:
 
-  Research Papers: Analyze coherence, depth, and formatting.
+    Research Papers: Analyze coherence, depth, and formatting.
 
-  Speeches and Presentations: Evaluate structure, clarity, and delivery impact.
+    Speeches and Presentations: Evaluate structure, clarity, and delivery impact.
   
-  Resumes and Cover Letters: Provide feedback on language, tone, and relevance to job roles.
+    Resumes and Cover Letters: Provide feedback on language, tone, and relevance to job roles.
