@@ -15,6 +15,8 @@ Features
 
 ⚡ Final Score Calculation: Combines all scores with customizable weightings to provide an overall evaluation.
 
+![AI Writing Evaluator System Flow Diagram](AI_Writing_Evaluator_Flow_Diagram.png)
+
 ### Use Cases
 
 For grading various types of written content, such as:
